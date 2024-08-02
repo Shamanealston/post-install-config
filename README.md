@@ -33,15 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The first step I did in this screenrecording was create a role called "Supreme Admin". Essentially, people assigned this role have no limitations when it comes to accessing, editing, assigning, etc. in this ticketing system. Secondly, I created a "System administrators" department. This department will be for all agents that are assigned the "supreme admin" role I created. Lastly, I created two teams; one being called "A team support" and the other being "Level ll suport". Hypothetically, the default team,  "level l support" could be for C tier tickets, "level ll support" could be for B tier tickets, and "A team support" could be for A tier tickets. 
 </p>
 <br />
 
