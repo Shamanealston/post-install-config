@@ -44,5 +44,6 @@ The first step I did in this screenrecording was create a role called "Supreme A
 In this screen recording I created two agents, Kevin Hart and Will Smith. I set up their OsTicket profiles by setting up their usernames and passwords, along with assigning them to their department, role, and team.  </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Lastly, I set up the SLAs and Help topics for this ticketing systems. I implemented SEV A, SEV B, and SEV C so agents can decipher the importance of each ticket and the timeframe the each ticket needs to be resolved in. I also created help topics so it will be easier for end-users select their issues so proper assignment will occur. 
+![image](https://github.com/user-attachments/assets/a6f37234-adce-49c4-801b-3245dfcf39a6)
+
+  Lastly, I set up the SLAs and Help topics for this ticketing systems. I implemented SEV A, SEV B, and SEV C so agents can decipher the importance of each ticket and the timeframe the each ticket needs to be resolved in. I also created help topics so it will be easier for end-users select their issues so proper assignment will occur. 
